@@ -1,0 +1,16 @@
+/* Navbar */
+.nav-link {
+  padding-left: 7px !important;
+  padding-right: 7px !important;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff !important;
+}
+
+.active {
+  color: #ed145b !important;
+}
+
+.hero {
+  height: 800px;
+  background-image: url(assets/hero_background.jpg);
+}
